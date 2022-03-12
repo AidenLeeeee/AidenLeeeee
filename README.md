@@ -1,12 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=00b0f0&height=150&section=header&text=🧑🏻‍💻%20Aiden%20Leeee&animation=scaleIn&fontSize=35&fontAlignY=30&fontColor=fefefe)
 
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6000&center=true&vCenter=true&width=854&lines=Hi+there!+%F0%9F%91%8B;I'm+studying+ML%2FDL+and+Web!+%E2%9D%A4%EF%B8%8F)](https://git.io/typing-svg)
 <br>
 <br>
 
 ### 🧑🏻‍💻 About Me
 ***
- - <a href='https://velog.io/@cataiden' target="_blank"><img src='https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=fefefe'/></a>
+ - <a href='https://velog.io/@cataiden' target="_blank"><img src='https://img.shields.io/badge/TECH BLOG-20C997?style=flat&logo=Velog&logoColor=fefefe'/></a>
  - <img src='https://img.shields.io/badge/hoo8799@gmail.com-ea4335?style=flat&logo=Gmail&logoColor=fefefe'/>
 
 <br>
@@ -14,10 +14,10 @@
 
 ### 📈 Stats
 ***
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AidenLeeeee&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AidenLeeeee&show_icons=true&title_color=00b0f0&text_color=fefefe&icon_color=00b0f0&bg_color=0d1117&count_private=True)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AidenLeeeee&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AidenLeeeee&layout=compact&bg_color=0d1117&title_color=00b0f0&text_color=fefefe&icon_color=00b0f0)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 <br>
 
