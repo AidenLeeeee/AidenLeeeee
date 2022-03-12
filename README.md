@@ -5,6 +5,7 @@
 ### 🧑🏾‍💻 About Me
 ***
  - <a href='https://velog.io/@cataiden' target="_blank"><img src='https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=fefefe'/></a>
+ - <img src='https://img.shields.io/badge/hoo8799@gmail.com-ea4335?style=flat&logo=Gmail&logoColor=fefefe'/>
 
 <br>
 <br>
