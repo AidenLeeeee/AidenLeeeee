@@ -4,7 +4,10 @@
 <br>
 <br>
 
-### 🧑🏻‍💻 About Me
+<div align="center">
+ <h3>🧑🏻‍💻 About Me</h3>
+</div>
+
 ***
  - <a href='https://velog.io/@cataiden' target="_blank"><img src='https://img.shields.io/badge/TECH BLOG-20C997?style=flat&logo=Velog&logoColor=fefefe'/></a>
  - <img src='https://img.shields.io/badge/hoo8799@gmail.com-ea4335?style=flat&logo=Gmail&logoColor=fefefe'/>
