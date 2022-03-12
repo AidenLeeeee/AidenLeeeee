@@ -4,7 +4,7 @@
 
 ### 🧑🏾‍💻 About Me
 ***
- - <a href='https://velog.io/@cataiden'; target='_blank'><img src='https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=fefefe'/></a>
+ - <a href='https://velog.io/@cataiden' target="_blank"><img src='https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=fefefe'/></a>
 
 <br>
 <br>
@@ -21,8 +21,8 @@
 ### 🤖 Tech Stack
 ***
 
-  |Property|Techs|
-  |:---|:------------:|
+  |Property|Tech|
+  |:---:|:------------:|
   | Language | <img src='https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=FCC624'/> <img src='https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=FEFEFE'/>   <img src='https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=FEFEFE'/> |
   | Library | <img src='https://img.shields.io/badge/Tensorflow-FF6F00?style=flat&logo=TensorFlow&logoColor=FCC624'/> <img src='https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white'/> <img src='https://img.shields.io/badge/Numpy-013243?style=flat&logo=NumPy&logoColor=white'/> <img src='https://img.shields.io/badge/ScikitLearn-F7931E?style=flat&logo=scikit-learn&logoColor=white'/> |
   | Tool | <img src='https://img.shields.io/badge/git-F05032?style=flat&logo=Git&logoColor=white'/> <img src='https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white'/> <img src='https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white'/> <img src='https://img.shields.io/badge/VS Code-fefefe?style=flat&logo=Visual Studio Code&logoColor=007ACC'/> |
