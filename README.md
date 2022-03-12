@@ -9,8 +9,11 @@
 </div>
 
 ***
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AidenLeeeee&show_icons=true&title_color=00b0f0&text_color=fefefe&icon_color=00b0f0&bg_color=0d1117&count_private=True)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AidenLeeeee&layout=compact&bg_color=0d1117&title_color=00b0f0&text_color=fefefe&icon_color=00b0f0)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+ <a href='https://github.com/anuraghazra/github-readme-stats' target="_blank"><img src='https://github-readme-stats.vercel.app/api?username=AidenLeeeee&show_icons=true&title_color=00b0f0&text_color=fefefe&icon_color=00b0f0&bg_color=0d1117&count_private=True'/></a>
+ <a href='https://github.com/anuraghazra/github-readme-stats' target="_blank"><img src='https://github-readme-stats.vercel.app/api/top-langs/?username=AidenLeeeee&layout=compact&bg_color=0d1117&title_color=00b0f0&text_color=fefefe&icon_color=00b0f0&card_width=280'/></a>
+</div>
+
 <br>
 <br>
 
