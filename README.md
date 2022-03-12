@@ -1,8 +1,10 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=00b0f0&height=150&section=header&text=🧑🏻‍💻%20Aiden%20Leeee&animation=scaleIn&fontSize=35&fontAlignY=30&fontColor=fefefe)
+
 ### Hi there 👋
 <br>
 <br>
 
-### 🧑🏾‍💻 About Me
+### 🧑🏻‍💻 About Me
 ***
  - <a href='https://velog.io/@cataiden' target="_blank"><img src='https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=fefefe'/></a>
  - <img src='https://img.shields.io/badge/hoo8799@gmail.com-ea4335?style=flat&logo=Gmail&logoColor=fefefe'/>
@@ -30,3 +32,5 @@
 
 ***
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAidenLeeeee&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=00b0f0&height=100&section=footer)
