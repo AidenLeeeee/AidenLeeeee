@@ -1,15 +1,15 @@
-## Hi there 👋
+### Hi there 👋
 <br>
 <br>
 
-## 🧑🏾‍💻 About Me
+### 🧑🏾‍💻 About Me
 ***
- - <a href='https://velog.io/@cataiden' target='_blank'><img src='https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=fefefe'/></a>
+ - <a href='https://velog.io/@cataiden'; target='_blank'><img src='https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=fefefe'/></a>
 
 <br>
 <br>
 
-## 📈 Stats
+### 📈 Stats
 ***
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AidenLeeeee&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <br>
@@ -18,7 +18,7 @@
 <br>
 <br>
 
-## 🤖 Tech Stack
+### 🤖 Tech Stack
 ***
 
   |Property|Techs|
