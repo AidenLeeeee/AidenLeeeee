@@ -20,9 +20,6 @@
   | Library | <img src='https://img.shields.io/badge/Tensorflow-FF6F00?style=flat&logo=TensorFlow&logoColor=FCC624'/> <img src='https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white'/> <img src='https://img.shields.io/badge/Numpy-013243?style=flat&logo=NumPy&logoColor=white'/> <img src='https://img.shields.io/badge/ScikitLearn-F7931E?style=flat&logo=scikit-learn&logoColor=white'/> |
   | Tool | <img src='https://img.shields.io/badge/git-F05032?style=flat&logo=Git&logoColor=white'/> <img src='https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white'/> <img src='https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white'/> <img src='https://img.shields.io/badge/VS Code-fefefe?style=flat&logo=Visual Studio Code&logoColor=007ACC'/> |
 
-<img src='https://img.shields.io/badge/ScikitLearn-F7931E?style=flat&logo=scikit-learn&logoColor=white'/>
-
-<br>
 <br>
 
 ***
