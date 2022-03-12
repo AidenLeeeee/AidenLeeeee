@@ -2,6 +2,12 @@
 <br>
 <br>
 
+### 🧑🏾‍💻 About me
+***
+ - <a href='https://velog.io/@cataiden'><img src='https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=fefefe'/></a>
+<br>
+<br>
+
 ### 📈 Stats
 ***
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AidenLeeeee&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
