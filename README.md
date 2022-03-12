@@ -10,8 +10,8 @@
 
 ***
 <div align="center">
- <a href='https://github.com/anuraghazra/github-readme-stats' target="_blank"><img src='https://github-readme-stats.vercel.app/api?username=AidenLeeeee&show_icons=true&title_color=00b0f0&text_color=fefefe&icon_color=00b0f0&bg_color=0d1117&count_private=True'/></a>
- <a href='https://github.com/anuraghazra/github-readme-stats' target="_blank"><img src='https://github-readme-stats.vercel.app/api/top-langs/?username=AidenLeeeee&layout=compact&bg_color=0d1117&title_color=00b0f0&text_color=fefefe&icon_color=00b0f0&card_width=280'/></a>
+ <a href='https://github.com/anuraghazra/github-readme-stats' target="_blank"><img src='https://github-readme-stats.vercel.app/api?username=AidenLeeeee&show_icons=true&title_color=00b0f0&text_color=fefefe&icon_color=00b0f0&bg_color=0d1117&count_private=True&hide_border=True'/></a>
+ <a href='https://github.com/anuraghazra/github-readme-stats' target="_blank"><img src='https://github-readme-stats.vercel.app/api/top-langs/?username=AidenLeeeee&layout=compact&bg_color=0d1117&title_color=00b0f0&text_color=fefefe&icon_color=00b0f0&card_width=280&hide_border=True'/></a>
 </div>
 
 <br>
@@ -23,11 +23,30 @@
 
 ***
 
-  |Property|Tech|
-  |:---:|:------------:|
-  | Language | <img src='https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=FCC624'/> <img src='https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=FEFEFE'/>   <img src='https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=FEFEFE'/> |
-  | Library | <img src='https://img.shields.io/badge/Tensorflow-FF6F00?style=flat&logo=TensorFlow&logoColor=FCC624'/> <img src='https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white'/> <img src='https://img.shields.io/badge/Numpy-013243?style=flat&logo=NumPy&logoColor=white'/> <img src='https://img.shields.io/badge/ScikitLearn-F7931E?style=flat&logo=scikit-learn&logoColor=white'/> |
-  | Tool | <img src='https://img.shields.io/badge/git-F05032?style=flat&logo=Git&logoColor=white'/> <img src='https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white'/> <img src='https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white'/> <img src='https://img.shields.io/badge/VS Code-fefefe?style=flat&logo=Visual Studio Code&logoColor=007ACC'/> |
+<div align="center">
+<table>
+<thead>
+  <tr>
+    <th>Property</th>
+    <th>Tech</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Language</td>
+    <td><img src='https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=FCC624'/> <img src='https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=FEFEFE'/> <img src='https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=FEFEFE'/></td>
+  </tr>
+  <tr>
+    <td>Library</td>
+    <td><img src='https://img.shields.io/badge/Tensorflow-FF6F00?style=flat&logo=TensorFlow&logoColor=FCC624'/> <img src='https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white'/> <img src='https://img.shields.io/badge/Numpy-013243?style=flat&logo=NumPy&logoColor=white'/> <img src='https://img.shields.io/badge/ScikitLearn-F7931E?style=flat&logo=scikit-learn&logoColor=white'/></td>
+  </tr>
+  <tr>
+    <td>Tool</td>
+    <td><img src='https://img.shields.io/badge/git-F05032?style=flat&logo=Git&logoColor=white'/> <img src='https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white'/> <img src='https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white'/> <img src='https://img.shields.io/badge/VS Code-fefefe?style=flat&logo=Visual Studio Code&logoColor=007ACC'/></td>
+  </tr>
+</tbody>
+</table>
+</div>
 
 <div align="center">
  <h3>🧑🏻‍💻 Reach Out</h3>
