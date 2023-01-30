@@ -51,5 +51,3 @@
 <div align="center">
  <a href='https://github.com/AidenLeeeee' target="_blank"><img src='https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAidenLeeeee&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Welcome!&edge_flat=false'/></a>
 </div>
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
