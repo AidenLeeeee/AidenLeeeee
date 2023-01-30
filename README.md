@@ -16,6 +16,7 @@
  <br>
  <img src='https://img.shields.io/badge/Nest%20JS-E0234E?style=for-the-badge&logo=NestJS&logoColor=white'/>
   <img src="https://img.shields.io/badge/Flask-181717?style=for-the-badge&logo=Flask&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=F37626"/>
+  <br>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=FF6F00"/> <img src="https://img.shields.io/badge/Google_Cloud_Platform-4285F4?style=for-the-badge&logo=GoogleCloud&logoColor=white"/>
 </div>
 
