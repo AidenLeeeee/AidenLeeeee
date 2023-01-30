@@ -30,8 +30,8 @@
 ***
 
 <div align="center">
- <a href='https://github.com/anuraghazra/github-readme-stats' target="_blank"><img src='https://github-readme-stats.vercel.app/api?username=AidenLeeeee&show_icons=true&title_color=00b0f0&text_color=fefefe&icon_color=00b0f0&bg_color=0d1117&count_private=True&hide_border=True'/></a>
- <a href='https://github.com/anuraghazra/github-readme-stats' target="_blank"><img src='https://github-readme-stats.vercel.app/api/top-langs/?username=AidenLeeeee&layout=compact&bg_color=0d1117&title_color=00b0f0&text_color=fefefe&icon_color=00b0f0&card_width=280&hide_border=True'/></a>
+ <a href='https://github.com/anuraghazra/github-readme-stats' target="_blank"><img src='https://github-readme-stats.vercel.app/api?username=AidenLeeeee&show_icons=true&hide=issues&theme=calm&count_private=True&hide_border=True'/></a>
+ <a href='https://github.com/anuraghazra/github-readme-stats' target="_blank"><img src='https://github-readme-stats.vercel.app/api/top-langs/?username=AidenLeeeee&layout=compact&theme=calm&card_width=280&hide_border=True'/></a>
 </div>
 
 <br>
