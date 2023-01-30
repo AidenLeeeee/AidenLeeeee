@@ -1,6 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=00b0f0&height=150&section=header&text=🧑🏻‍💻%20Aiden%20Leeeee&animation=scaleIn&fontSize=35&fontAlignY=30&fontColor=fefefe)
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6000&center=true&vCenter=true&width=854&lines=Hi+there!+%F0%9F%91%8B;I'm+studying+ML%2FDL+and+Web!+%E2%9D%A4%EF%B8%8F)](https://git.io/typing-svg)
+![header](https://capsule-render.vercel.app/api?type=waving&color=00b0f0&height=150&section=header&text=🇰🇷%20Aiden%20Leeeee&animation=scaleIn&fontSize=35&fontAlignY=30&fontColor=fefefe)
 <br>
 
 <div align="center">
